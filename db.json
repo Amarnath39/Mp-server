@@ -1,0 +1,125 @@
+{
+  "allVideos": [
+    {
+      "caption": "Avesham",
+      "url": "https://www.youtube.com/embed/L0yEMl8PXnw?si=5pyzw262zPtM76am&autoplay=1",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/jrgypw/article67644635.ece/alternates/LANDSCAPE_1200/aa.jpeg",
+      "id": 23
+    },
+    {
+      "caption": "Jaada video song - Aveshsam",
+      "url": "https://www.youtube.com/embed/o3KFJNehMgw?si=5pyzw262zPtM76am&autoplay=1",
+      "image": "https://c.saavncdn.com/858/Aavesham-Malayalam-2024-20240227194803-500x500.jpg",
+      "id": 24
+    },
+    {
+      "caption": "bramayugam",
+      "url": "https://www.youtube.com/embed/55pzldrBRJM?si=5pyzw262zPtM76am&autoplay=1",
+      "image": "https://timesofindia.indiatimes.com/photo/102820189.cms",
+      "id": 26
+    },
+    {
+      "caption": "oru jaathi jaathakam",
+      "url": "https://www.youtube.com/embed/q0MVVjy1-b8?si=5pyzw262zPtM76am&autoplay=1",
+      "image": "https://images.filmibeat.com/img/popcorn/movie_posters/orujaathiorujathakam-20240222100236-21745.jpg",
+      "id": 31
+    },
+    {
+      "caption": "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+      "url": "https://www.youtube.com/embed/undefined?si=5pyzw262zPtM76am&autoplay=1",
+      "image": "hh",
+      "id": 32
+    }
+  ],
+  "categories": [
+    {
+      "name": "trailers",
+      "videos": [
+        {
+          "caption": "aadu jeevitham trailer",
+          "url": "https://www.youtube.com/embed/Aik9-A79nzw?si=5pyzw262zPtM76am&autoplay=1",
+          "image": "https://assets.gadgets360cdn.com/pricee/assets/product/202302/Aadujeevitham_1676011855.jpg",
+          "id": 29
+        },
+        {
+          "caption": "bramayugam",
+          "url": "https://www.youtube.com/embed/55pzldrBRJM?si=5pyzw262zPtM76am&autoplay=1",
+          "image": "https://timesofindia.indiatimes.com/photo/102820189.cms",
+          "id": 26
+        },
+        {
+          "caption": "bramayugam",
+          "url": "https://www.youtube.com/embed/55pzldrBRJM?si=5pyzw262zPtM76am&autoplay=1",
+          "image": "https://timesofindia.indiatimes.com/photo/102820189.cms",
+          "id": 26
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "movies",
+      "videos": [],
+      "id": 8
+    },
+    {
+      "name": "documentaries",
+      "videos": [],
+      "id": 9
+    },
+    {
+      "name": "songs",
+      "videos": [
+        {
+          "caption": "Avesham",
+          "url": "https://www.youtube.com/embed/L0yEMl8PXnw?si=5pyzw262zPtM76am&autoplay=1",
+          "image": "https://th-i.thgim.com/public/entertainment/movies/jrgypw/article67644635.ece/alternates/LANDSCAPE_1200/aa.jpeg",
+          "id": 23
+        },
+        {
+          "caption": "oru jaathi jaathakam",
+          "url": "https://www.youtube.com/embed/q0MVVjy1-b8?si=5pyzw262zPtM76am&autoplay=1",
+          "image": "https://images.filmibeat.com/img/popcorn/movie_posters/orujaathiorujathakam-20240222100236-21745.jpg",
+          "id": 31
+        }
+      ],
+      "id": 13
+    },
+    {
+      "name": "Tutorials",
+      "videos": [],
+      "id": 14
+    }
+  ],
+  "history": [
+    {
+      "caption": "Avesham",
+      "url": "https://www.youtube.com/embed/L0yEMl8PXnw?si=5pyzw262zPtM76am&autoplay=1",
+      "datetime": "Tue Mar 12 2024 12:02:26 GMT+0530 (India Standard Time)",
+      "id": 1
+    },
+    {
+      "caption": "Jaada video song - Aveshsam",
+      "url": "https://www.youtube.com/embed/o3KFJNehMgw?si=5pyzw262zPtM76am&autoplay=1",
+      "datetime": "Tue Mar 12 2024 12:02:29 GMT+0530 (India Standard Time)",
+      "id": 2
+    },
+    {
+      "caption": "bramayugam",
+      "url": "https://www.youtube.com/embed/55pzldrBRJM?si=5pyzw262zPtM76am&autoplay=1",
+      "datetime": "Tue Mar 12 2024 12:02:31 GMT+0530 (India Standard Time)",
+      "id": 3
+    },
+    {
+      "caption": "aadu jeevitham trailer",
+      "url": "https://www.youtube.com/embed/Aik9-A79nzw?si=5pyzw262zPtM76am&autoplay=1",
+      "datetime": "Tue Mar 12 2024 12:02:33 GMT+0530 (India Standard Time)",
+      "id": 4
+    },
+    {
+      "caption": "aadu jeevitham trailer",
+      "url": "https://www.youtube.com/embed/Aik9-A79nzw?si=5pyzw262zPtM76am&autoplay=1",
+      "datetime": "Tue Mar 12 2024 12:02:35 GMT+0530 (India Standard Time)",
+      "id": 5
+    }
+  ]
+}
